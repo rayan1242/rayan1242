@@ -30,4 +30,3 @@
 <a href="https://github.com/gauravghost">
   <img align="center" src="https://camo.githubusercontent.com/202fc2f6a3b636dd457eebf3e9cb9176e49bb59b75755c2ec2e631a7bad97cd2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67617572617667686f73742673686f775f69636f6e733d74727565266c696e655f6865696768743d323726636f756e745f707269766174653d74727565267468656d653d7261646963616c" alt="Gyanendra's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rayan1242&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;theme=radical" style="max-width: 100%;">
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayan1242&" alt="rayan1242" /></p>
