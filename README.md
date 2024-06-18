@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@ray1242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ray1242" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rayyanmaindargi12" target="blank"><img align="center" src="[https://codeforces.com/predownloaded/72/78/7278aa064f232c82d026ca5478457b90b392d4d7.jpg](https://ih1.redbubble.net/image.4170502565.0107/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg)" alt="rayyanmaindargi12" height="30" width="40""/></a>
+<a href="https://codeforces.com/profile/rayyanmaindargi12" target="blank"><img align="center" src="https://codeforces.com/predownloaded/f0/a8/f0a8732e89dafff887b89e13cb60fe7cf272971c.jpg" alt="rayyanmaindargi12" height="30" width="40""/></a>
 <a href="https://www.leetcode.com/rayyan1242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[rayyan1242](https://leetcode.com/u/rayyan1242/)" height="30" width="40" /></a>
 </p>
 
