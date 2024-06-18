@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@ray1242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ray1242" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rayyan-maindargi-0529b71b1/" target="blank"><img align="center" src="https://camo.githubusercontent.com/3b8814e1f22c453e3a05ceee01ddd40f351587ef02eea9ffcffb33f983d55a34/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" width="40px" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
 <a href="https://codeforces.com/profile/rayyanmaindargi12" target="blank"><img align="center" src="https://codeforces.com/predownloaded/f0/a8/f0a8732e89dafff887b89e13cb60fe7cf272971c.jpg" alt="rayyanmaindargi12" height="30" width="40""/></a>
 <a href="https://www.leetcode.com/rayyan1242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[rayyan1242](https://leetcode.com/u/rayyan1242/)" height="30" width="40" /></a>
 </p>
