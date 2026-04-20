@@ -1,33 +1,121 @@
-![MasterHead](https://png.pngtree.com/background/20240115/original/pngtree-3d-rendered-image-illustrating-the-concept-of-coding-and-programming-picture-image_7283662.jpg)
+# Hi, I'm Rayyan Maindargi 👋
 
-<h1 align="center">Hi 👋, I'm Rayyan Maindargi</h1>
-<h3 align="center">a dedicated full stack developer from Earth</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+AI/ML Engineer | M.S. Computer Science @ IIT Chicago | GPA 3.8/4.0
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan1242&label=Profile%20views&color=0e75b6&style=flat" alt="rayan1242" /> </p>
+I build production-grade LLM systems, RAG pipelines, and multi-agent 
+workflows. Passionate about taking AI from prototype to production across 
+real-world industries.
 
-- 🌱 I’m currently learning **ExpressJS,ReactJS,MongoDB,AWS**
+---
 
-- 👯 I’m looking to collaborate on **Mern stack projects**
+## 🤖 What I Build
 
-- 💬 Ask me about **AWS lamda,ec2,Kubernetes**
+- **RAG Systems** — Multi-index retrieval pipelines with LangChain, 
+  LlamaIndex, Pinecone, ChromaDB
+- **Agentic AI** — Multi-agent workflows with LangGraph, tool calling, 
+  autonomous reasoning
+- **LLM Fine-tuning** — Domain-specific Llama fine-tuning with 
+  LoRA/QLoRA via HuggingFace PEFT
+- **ML Engineering** — End-to-end pipelines from EDA to deployment 
+  with FastAPI, Docker, AWS
 
-- 📫 How to reach me **rayyanmaindargi12@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rayyan-maindargi-0529b71b1/" target="blank"><img align="center" src="https://camo.githubusercontent.com/3b8814e1f22c453e3a05ceee01ddd40f351587ef02eea9ffcffb33f983d55a34/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" width="40px" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a>
-<a href="https://codeforces.com/profile/rayyanmaindargi12" target="blank"><img align="center" src="https://codeforces.com/predownloaded/f0/a8/f0a8732e89dafff887b89e13cb60fe7cf272971c.jpg" alt="rayyanmaindargi12" height="30" width="40""/></a>
-<a href="https://www.leetcode.com/rayyan1242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="[rayyan1242](https://leetcode.com/u/rayyan1242/)" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
+**AI & Agents**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,express,react,js,ts,java,py,gcp,aws,kubernetes,rabbitmq,redis,tailwind,mysql,mongodb)](https://skillicons.dev)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayan1242&show_icons=true&locale=en&layout=compact" alt="rayan1242" /></p>
+**ML & Deep Learning**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayan1242&show_icons=true&locale=en" alt="rayan1242" /></p>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayan1242&" alt="rayan1242" /></p>
+**Vector Databases**
 
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [DeepGit](https://github.com/rayan1242/DeepGit)
+> Agentic GitHub Repository Intelligence & Semantic Search Engine
+
+12-stage AI research agent using LangGraph with hybrid retrieval 
+(BM25 + ColBERT), cross-encoder reranking, and query intelligence 
+layer. End-to-end latency under 2s.
+
+`LangGraph` `Groq LLMs` `ColBERT` `BM25` `Hybrid Retrieval`
+
+---
+
+### 🧠 MediaMind
+> AI-Powered Content Intelligence Platform
+
+Multi-agent content system indexing 50K+ media articles with semantic 
+search, fine-tuned Llama for content categorization across 12 genres, 
+RAG-powered recommendations deployed on AWS.
+
+`LangGraph` `LangChain` `Pinecone` `HuggingFace` `FastAPI` `AWS`
+
+---
+
+### 📋 ClaimSense
+> Insurance Policy & Claims Intelligence RAG System
+
+Multi-index RAG architecture using LlamaIndex over 80K+ insurance 
+documents, agentic query routing with RouterQueryEngine, deployed 
+with sub-400ms latency.
+
+`LlamaIndex` `Pinecone` `ChromaDB` `FastAPI` `AWS`
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| AI Engineer Intern | Lumena Energy, Chicago | Jun – Dec 2025 |
+| ML Engineer | Elite Softwares, Pune | Jan 2023 – Aug 2024 |
+| Graduate TA | IIT Chicago | Jan 2026 – Present |
+
+---
+
+## 🏭 Industries I've Built AI For
+
+
+
+---
+
+## 📊 Currently Working On
+
+- 🔨 Building MediaMind and ClaimSense end to end
+- 📖 Deepening LlamaIndex and advanced RAG patterns
+- 🎯 Open to AI Engineer / ML Engineer full-time roles
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyan-maindargi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rmaindargi@hawk.illinoistech.edu)
+
+---
+
+> *"I don't just build AI demos — I ship AI systems that work in production."*
